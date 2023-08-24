@@ -73,7 +73,8 @@ content:
         quote: >
            Octopus is the first circular economy platform in Indonesia
         description: | # this will include new lines to allow paragraphs
-           ![alt text](/images/octo.jpeg "Octopus")
+           <img src="/images/octo.jpeg" width="180" height="320">
+           
            Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working as solo developer in iOS platform to develop feature for this application.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
