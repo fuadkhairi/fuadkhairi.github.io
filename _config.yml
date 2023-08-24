@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Fuad and I'm a senior mobile developer. An iOS developer with 3 years of developing iOS Apps and 5 years total of mobile programming experience. Skilled in Swift to develop iOS Apps in XCode. Committed to clean code and continuous learning. Ready to contribute to your projects.
 
@@ -90,6 +90,15 @@ content:
           <img src="/images/gaia.jpeg" width="640" height="180">
            
           This game aims is to increase people awareness about how to dispose of waste properly without polluting the environment
+      - layout: left
+        title: Sky Children
+        quote: >
+           Sky Children is endless jumping game release on android & tizen, developed with C# Unity
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/sky1.jpeg" width="180" height="320">  \t  <img src="/images/sky2.jpeg" width="200" height="320">
+           
+          Sky Children developed with C# Unity, and I use open source assets (I am just writing the code), and then release the game to play store (not available now, not updating the app so get unlisted) and also in Tizen (got thousand of download there) and won prize from Dicoding developer program for Tizen Developer
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
