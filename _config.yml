@@ -53,24 +53,44 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
 
 content:
-  - title: Projects I`ve worked in
+#  - title: Projects I`ve worked in
+#    layout: list
+#    content:
+#      - layout: left
+#        border: weak
+#        link: https://apps.apple.com/us/app/octopus-solusi-daur-ulangmu/id1515879876
+#        link_text: App store link
+#        additional_links:
+#          - title:  Play Store link for this app
+#            icon: fab fa-google-play
+#            url: https://play.google.com/store/apps/details?id=com.octopus.customer&hl=en_US&pli=1
+#        - title:  Company website
+#            icon: fab fa-globe
+#            url: https://octopus.co.id/id
+#        quote: >
+#           Octopus is the first circular economy platform in Indonesia
+#        description: | # this will include new lines to allow paragraphs
+#           Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working as solo developer in iOS platform to develop feature for this application.
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak
-        link: https://apps.apple.com/us/app/octopus-solusi-daur-ulangmu/id1515879876
-        link_text: App store link
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
         additional_links:
-          - title:  Play Store link for this app
-            icon: fab fa-google-play
-            url: https://play.google.com/store/apps/details?id=com.octopus.customer&hl=en_US&pli=1
-        - title:  Company website
-            icon: fab fa-globe
-            url: https://octopus.co.id/id
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-           Octopus is the first circular economy platform in Indonesia
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working as solo developer in iOS platform to develop feature for this application. 
+          Description about the work on/with the project
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
