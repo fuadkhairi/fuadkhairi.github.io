@@ -53,13 +53,11 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
 
 content:
-  - title: Projects I've worked on
+  - title: Projects I`ve worked in
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any
-                      # other value (or no value) means no border will be displayed
-        title: Octopus = Solusi Daur Ulangmu
+        border: weak
         link: https://apps.apple.com/us/app/octopus-solusi-daur-ulangmu/id1515879876
         link_text: App store link
         additional_links:
