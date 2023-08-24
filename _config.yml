@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
 
 content:
-
   - title: Projects I`ve worked on # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -69,9 +68,28 @@ content:
         quote: >
            Octopus is the first circular economy platform in Indonesia
         description: | # this will include new lines to allow paragraphs
-          <img src="/images/octogif.gif" width="180" height="320">  <img src="/images/octo1.jpeg" width="180" height="320">  <img src="/images/octo2.jpeg" width="180" height="320">
+          <img src="/images/octogif.gif" width="148" height="320">       <img src="/images/octo1.jpeg" width="148" height="320">       <img src="/images/octo2.jpeg" width="148" height="320">
            
           Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working to develop feature for this application as solo developer in iOS platform since I was the only iOS Developer.
+  - title: My Experiments Project / Side Projects
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Jellyfish Detection and Classification with Neural Network
+        quote: >
+           Detect and classify jellyfish from video or camera.
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/jellyfish.jpeg" width="320" height="180">
+           
+          Detect and classify jellyfish from video or camera using YOLOv3 neural network models, trained using custom jellyfish dataset in Python.
+      - layout: left
+        title: Gaia Jaya
+        quote: >
+           Gaiya Jaya is android based mini games developed using C# with Unity
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/gaia.jpeg" width="640" height="180">
+           
+          This game aims is to increase people awareness about how to dispose of waste properly without polluting the environment
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
