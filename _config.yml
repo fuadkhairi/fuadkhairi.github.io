@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Fuad and I'm a senior mobile developer. An iOS developer with 3 years of developing iOS Apps and 5 years total of mobile programming experience. Skilled in Swift to develop iOS Apps in XCode. Committed to clean code and continuous learning. Ready to contribute to your projects.
 
-  I am most skilled in: <mark>iOS Development</mark> and a piece about <mark>Android Development</mark>
+  I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
 
 content:
   - title: Experience # Title for the section
@@ -73,6 +73,26 @@ content:
                 • Implement MVVM Design Pattern with RxSwift
                 • Stand by for fatal production bugs to replicate and fix on the next release
       - layout: left
+        link: octopus.co.id/id
+        sub_title: Mobile Developer
+        caption: June 2020 - August 2021
+        quote: >
+          Deliver features for Octopus Apps in iOS, Android, and Web App (Flutter)
+        description: | # this will include new lines to allow paragraphs
+            Some of responsibility:
+                • Develop feature and manage release of Octopus apps in iOS (Customer app) and Android (Customer, Pelestari, and Waste Bank app) platform
+                • Develop Octopus mobile web app in Flutter in order to collaborate with Grab Application
+                • Implement MVVM design pattern in iOS and Android
+      - layout: left
+        link: octopus.co.id/id
+        sub_title: Android Developer
+        caption: December 2019 - June 2020
+        quote: >
+          Working on Octopus Android Apps, and testing on the field (with pelestari)
+        description: | # this will include new lines to allow paragraphs
+            Some of responsibility:
+                • Responsible for developing features of Octopus Android Apps, includes Octopus User Apps, Pelestari Apps, and Agent Apps, and make sure the flow of the alpha app is working.
+      - layout: left
         title: PT. Bluebird Group Tbk.
         link: bluebirdgroup.com
         # link_text: boringcompany.com
@@ -88,6 +108,28 @@ content:
                   such as Clevertap, Firebase, Facebook, and Google SDK
                 • Actively communicate with core app team to deliver features from marketing team for
                   release.
+      - layout: left
+        title: The Gym Pod (EngX1)
+        link: engx1.com
+        # link_text: boringcompany.com
+        sub_title: Android Developer
+        caption: July 2021
+        quote: >
+          Joined the gym pod team.
+        description: | # this will include new lines to allow paragraphs
+            Some of responsibility:
+                • Responsible to transform a React Native Mobile Application to Native Android that works on smart mirror using clean architecture and mvvm pattern.
+      - layout: left
+        title: PT. Carakde Solusi Informatika
+        link: carakde.id
+        # link_text: boringcompany.com
+        sub_title: Mobile Developer (Android/iOS)
+        caption: August 2018
+        quote: >
+          Code few apps in android and iOS platform
+        description: | # this will include new lines to allow paragraphs
+            Some of responsibility:
+                • Code and deliver a few end-to-end Android Mobile Application with MVVM and Agile Process
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
