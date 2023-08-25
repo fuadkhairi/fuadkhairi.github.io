@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
 
 content:
-  - title: Projects I`ve worked on # Title for the section
+  - title: Projects I`ve worked on / Contributed to # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -68,9 +68,39 @@ content:
         quote: >
            Octopus is the first circular economy platform in Indonesia
         description: | # this will include new lines to allow paragraphs
-          <img src="/images/octogif.gif" width="148" height="320">       <img src="/images/octo1.jpeg" width="148" height="320">       <img src="/images/octo2.jpeg" width="148" height="320">
+          <img src="/images/octogif.gif" width="148" height="320"> &emsp; <img src="/images/octo1.jpeg" width="148" height="320"> &emsp; <img src="/images/octo2.jpeg" width="148" height="320">
            
-          Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working to develop feature for this application as solo developer in iOS platform since I was the only iOS Developer.
+          Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working to develop feature for this application as solo developer in iOS platform.
+      - layout: left
+        title: MyBluebird Taxi
+        additional_links:
+          - title:  App Store link for this app
+            icon: fab fa-app-store-ios
+            url: https://apps.apple.com/id/app/mybluebird-taxi/id476533261
+          - title:  Play Store link for this app
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.seatech.bluebird&hl=en_US
+        quote: >
+           Bluebird is the largest taxi operator company in Indonesia
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/bb1.jpeg" width="148" height="320"> &emsp; <img src="/images/bb2.jpeg" width="148" height="320"> &emsp; <img src="/images/bb3.jpeg" width="148" height="320">
+           
+          I've joined bluebird group as iOS Developer at Marketing Squad. I've got involved into the development of transforming old MyBB5 to MyBB6 with fresh look. My responsibility is to deliver marketing features such as configurable top banner slideshow and recommendations section in homepage, also the new promo inbox. All of them is using Clevertap SDK to deliver the data. I also do 3rd party sdk integration like clevertap, firebase, etc., Deeplink integration, to events for user analysis.
+      - layout: left
+        title: Praktek dr. Bob
+        additional_links:
+          - title:  App Store link for this app
+            icon: fab fa-app-store-ios
+            url: https://apps.apple.com/id/app/praktek-dr-bob/id1534862547
+          - title:  Play Store link for this app
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.carakde.dokterbob&hl=id&gl=US
+        quote: >
+           Praktek dr. Bob is ticket ordering apps at dr. Bob clinic
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/bob0.jpeg" width="148" height="320"> &emsp; <img src="/images/bob1.jpeg" width="148" height="320"> &emsp; <img src="/images/bob2.jpeg" width="148" height="320">
+           
+          My responsibily is to deliver features update, bug fixing, and app deployment to app store. Feature I've worked on such as multiple login system with whatsapp, facebook, google, and apple.
   - title: My Experiments Project / Side Projects
     layout: list # Type of content section (list/text)
     content:
@@ -95,9 +125,25 @@ content:
         quote: >
            Sky Children is endless jumping game release on android & tizen, developed with C# Unity
         description: | # this will include new lines to allow paragraphs
-          <img src="/images/sky1.jpeg" width="180" height="320">  \t  <img src="/images/sky2.jpeg" width="200" height="320">
+          <img src="/images/sky1.jpeg" width="180" height="320"> &emsp; <img src="/images/sky2.jpeg" width="200" height="320">
            
           Sky Children developed with C# Unity, and I use open source assets (I am just writing the code), and then release the game to play store (not available now, not updating the app so get unlisted) and also in Tizen (got thousand of download there) and won prize from Dicoding developer program for Tizen Developer
+      - layout: left
+        title: AFI (Application for Intelligence)
+        quote: >
+           Android based application to classify kids intelligent type, written in Java
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/afi.jpeg" width="320" height="240">
+           
+          Application For Intelligence (AFI) is my personal project to do early classification for kids intelligence type by answering questionare. The app is developed using Java as programming language and standard MVC design pattern.
+      - layout: left
+        title: Door Lock Controller
+        quote: >
+           Android based application to open / close door using thingspeak server
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/door.jpeg" width="320" height="250">
+           
+          Door lock controller is an android app written in Java to open/close the door. This app is connected to thingspeak server and will control an iot device (forget is it a rasppi or arduino) to open/close the door
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
