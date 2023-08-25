@@ -101,11 +101,19 @@ content:
           <img src="/images/bob0.jpeg" width="148" height="320"> &emsp; <img src="/images/bob1.jpeg" width="148" height="320"> &emsp; <img src="/images/bob2.jpeg" width="148" height="320">
            
           My responsibily is to deliver features update, bug fixing, and app deployment to app store. Feature I've worked on such as multiple login system with whatsapp, facebook, google, and apple.
-  - title: My Experiments Project / Side Projects
+  - title: My Experiments Project / Side Projects / Other projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Jellyfish Detection and Classification with Neural Network
+        title: Waste Classification - Octopus Extension (2023)
+        quote: >
+           Detect and classify waste type with Apple's MLKIt
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/waste_classification.gif" width="148" height="320">
+           
+          Detect and classify waste type using apple's MLKit, embedding the classifier model to Octopus customer app for research purpose. I am using CreateML of XCode to create and training waste classifier model using dataset from Octopus, then use the CoreML framework to load the model then use it to classify waste using iPhone's camera in realtime.
+      - layout: left
+        title: Jellyfish Detection and Classification with Neural Network (2019)
         quote: >
            Detect and classify jellyfish from video or camera.
         description: | # this will include new lines to allow paragraphs
@@ -113,7 +121,7 @@ content:
            
           Detect and classify jellyfish from video or camera using YOLOv3 neural network models, trained using custom jellyfish dataset in Python.
       - layout: left
-        title: Gaia Jaya
+        title: Gaia Jaya (2018)
         quote: >
            Gaiya Jaya is android based mini games developed using C# with Unity
         description: | # this will include new lines to allow paragraphs
@@ -121,7 +129,7 @@ content:
            
           This game aims is to increase people awareness about how to dispose of waste properly without polluting the environment
       - layout: left
-        title: Sky Children
+        title: Sky Children (2018)
         quote: >
            Sky Children is endless jumping game release on android & tizen, developed with C# Unity
         description: | # this will include new lines to allow paragraphs
@@ -129,7 +137,7 @@ content:
            
           Sky Children developed with C# Unity, and I use open source assets (I am just writing the code), and then release the game to play store (not available now, not updating the app so get unlisted) and also in Tizen (got thousand of download there) and won prize from Dicoding developer program for Tizen Developer
       - layout: left
-        title: AFI (Application for Intelligence)
+        title: AFI (Application for Intelligence) (2019)
         quote: >
            Android based application to classify kids intelligent type, written in Java
         description: | # this will include new lines to allow paragraphs
@@ -137,13 +145,29 @@ content:
            
           Application For Intelligence (AFI) is my personal project to do early classification for kids intelligence type by answering questionare. The app is developed using Java as programming language and standard MVC design pattern.
       - layout: left
-        title: Door Lock Controller
+        title: Coop2Coop (2019)
+        quote: >
+           Android based application for cooperation marketplace (prototype)
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/coop.jpeg" width="320" height="190">
+           
+          This cooperation marketplace prototype is written in Java and using MVP design pattern (the projects is discontinued)
+      - layout: left
+        title: Door Lock Controller (2018)
         quote: >
            Android based application to open / close door using thingspeak server
         description: | # this will include new lines to allow paragraphs
           <img src="/images/door.jpeg" width="320" height="250">
            
           Door lock controller is an android app written in Java to open/close the door. This app is connected to thingspeak server and will control an iot device (forget is it a rasppi or arduino) to open/close the door
+      - layout: left
+        title: E-Data Logistic (2018)
+        quote: >
+           Android based application for to predict logistic data using machine learning
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/edata.jpeg" width="320" height="275">
+           
+          This app is written in Java and using python to develop machine learning model to make prediction based on given data, then show the data to mobile application.
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
