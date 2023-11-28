@@ -72,21 +72,6 @@ content:
            
           Octopus - Solusi Daur Ulangmu is the customer app of Octopus. I was working to develop feature for this application as solo developer in iOS platform.
       - layout: left
-        title: MyBluebird Taxi
-        additional_links:
-          - title:  App Store link for this app
-            icon: fab fa-app-store-ios
-            url: https://apps.apple.com/id/app/mybluebird-taxi/id476533261
-          - title:  Play Store link for this app
-            icon: fab fa-google-play
-            url: https://play.google.com/store/apps/details?id=com.seatech.bluebird&hl=en_US
-        quote: >
-           Bluebird is the largest taxi operator company in Indonesia
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/bb1.jpeg" width="148" height="320"> &emsp; <img src="/images/bb2.jpeg" width="148" height="320"> &emsp; <img src="/images/bb3.jpeg" width="148" height="320">
-           
-          I've joined bluebird group as iOS Developer at Marketing Squad. I've got involved into the development of transforming old MyBB5 to MyBB6 with fresh look. My responsibility is to deliver marketing features such as configurable top banner slideshow and recommendations section in homepage, also the new promo inbox. All of them is using Clevertap SDK to deliver the data. I also do 3rd party sdk integration like clevertap, firebase, etc., Deeplink integration, to events for user analysis.
-      - layout: left
         title: Praktek dr. Bob
         additional_links:
           - title:  App Store link for this app
@@ -191,7 +176,7 @@ content:
       - layout: left
         link: octopus.co.id/id
         sub_title: Mobile Developer
-        caption: June 2020 - August 2021
+        caption: June 2020 - December 2022
         quote: >
           Deliver features for Octopus Apps in iOS, Android, and Web App (Flutter)
         description: | # this will include new lines to allow paragraphs
@@ -208,22 +193,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Some of responsibility:
                 • Responsible for developing features of Octopus Android Apps, includes Octopus User Apps, Pelestari Apps, and Agent Apps, and make sure the flow of the alpha app is working.
-      - layout: left
-        title: PT. Bluebird Group Tbk.
-        link: bluebirdgroup.com
-        # link_text: boringcompany.com
-        sub_title: iOS Developer
-        caption: August 2021 - December 2022
-        quote: >
-          Joined the marketing squad to support marketing features on Bluebird Taxi iOS app
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Responsible to develop and integrate marketing-based feature such as promotion inbox,
-                  deep links, events, and home page marketing contents in Bluebird iOS App.
-                • Responsible to integrate some third-party tools and its features for marketing purpose
-                  such as Clevertap, Firebase, Facebook, and Google SDK
-                • Actively communicate with core app team to deliver features from marketing team for
-                  release.
       - layout: left
         title: The Gym Pod (EngX1)
         link: engx1.com
