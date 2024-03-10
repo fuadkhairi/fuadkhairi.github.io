@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Fuad Khairi Hamid
-title: Senior Mobile Developer
+title: Software Engineer - Mobile
 email: fuadkhairihamid@gmail.com
 website: www.github.com/fuadkhairi
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Fuad and I'm a senior mobile developer. An iOS developer with 3 years of developing iOS Apps and 5 years total of mobile programming experience. Skilled in Swift to develop iOS Apps in XCode. Committed to clean code and continuous learning. Ready to contribute to your projects.
+  Hi, my name's Fuad and I'm a senior mobile developer. An iOS developer with 6 years total of mobile programming experience. Skilled in Swift to develop iOS Apps in XCode. Committed to clean code and continuous learning. Ready to contribute to your projects.
 
   I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
 
@@ -56,6 +56,21 @@ content:
   - title: Projects I`ve worked on / Contributed to # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: OLX Indonesia
+        additional_links:
+          - title:  App Store link for this app
+            icon: fab fa-app-store-ios
+            url: https://apps.apple.com/id/app/olx-indonesia/id660161040
+          - title:  Play Store link for this app
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.app.tokobagus.betterb&hl=en_US
+        quote: >
+           OLX, as a subsidiary of Astra Group is the largest online classifieds site in Indonesia, plays a pivotal role in connecting sellers and buyers across a diverse spectrum of products and services.
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/olx1.webp" width="320" height="148"> &emsp; <img src="/images/olx2.webp" width="320" height="148">
+           
+          Joined as native iOS Developer at OLX Indonesia
       - layout: left
         title: Octopus - Solusi Daur Ulangmu
         additional_links:
@@ -173,11 +188,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: OLX Indonesia
+        link: olx.co.id
+        # link_text: boringcompany.com
+        sub_title: Software Engineer - iOS
+        caption: January 2023 - Present
+        quote: >
+          Deliver features/updates for OLX Indonesia apps
+        description: | # this will include new lines to allow paragraphs
+            Some of responsibility:
+                • Deliver updates for OLX Indonesia apps
+                • Fixes bugs in production
+      - layout: left
         title: Octopus Indonesia
         link: octopus.co.id/id
         # link_text: boringcompany.com
         sub_title: Senior Mobile Developer (iOS)
-        caption: January 2023 - Present
+        caption: January 2023 - January 2024
         quote: >
           Deliver features for Octopus iOS Customer Application
         description: | # this will include new lines to allow paragraphs
