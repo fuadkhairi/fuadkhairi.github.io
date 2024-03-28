@@ -48,9 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Fuad and I'm a senior mobile developer. An iOS developer with 6 years total of mobile programming experience. Skilled in Swift to develop iOS Apps in XCode. Committed to clean code and continuous learning. Ready to contribute to your projects.
-
-  I am most skilled in: <mark>iOS Development</mark> and since I was an android developer, I still can do <mark>Android Development</mark>, despite not really update with the latest tech. I also doing AI things as my side projects since I was an AI researcher.
+  I am an iOS Developer with almost 4 years of experience in iOS Development. I also have experience in other mobile roles as native android development, mobile games development, and some hands-on with flutter, the total of my professional experience is around 7 years. I’ve spent most of my career developing apps for early stages startup and corporates in Indonesia, also got some opportunity to work with consultant and freelance. My goals is to gain experience and expand my skillset by working on a project that has scale, and want to see how my skill can contribute to the company I work on.
 
 content:
   - title: Projects I`ve worked on / Contributed to # Title for the section
@@ -121,6 +119,7 @@ content:
     content:
       - layout: left
         title: iOS Progress Circle Library
+        link: https://github.com/fuadkhairi/FKProgressCircle
         quote: >
            Lightweight library for rendering circular progress
         description: | # this will include new lines to allow paragraphs
