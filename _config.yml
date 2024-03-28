@@ -120,6 +120,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: iOS Progress Circle Library
+        quote: >
+           Lightweight library for rendering circular progress
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/fkprogress.gif" width="148" height="148">
+           
+          FKProgressCircle is a lightweight library for rendering circular progress with an icon(arrow) as value indicator.
+      - layout: left
         title: Waste Classification - Octopus Extension (2023)
         quote: >
            Detect and classify waste type with Apple's MLKIt
@@ -198,7 +206,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Some of responsibility:
                 • Deliver updates for OLX Indonesia apps
-                • Fixes bugs in production
+                • Fixes bugs and tackle tech debts
       - layout: left
         title: Octopus Indonesia
         link: octopus.co.id/id
@@ -217,8 +225,8 @@ content:
                 • Stand by for fatal production bugs to replicate and fix on the next release
       - layout: left
         link: octopus.co.id/id
-        sub_title: Mobile Developer
-        caption: June 2020 - August 2021
+        sub_title: Android & iOS Developer
+        caption: June 2020 - July 2021
         quote: >
           Deliver features for Octopus Apps in iOS, Android, and Web App (Flutter)
         description: | # this will include new lines to allow paragraphs
