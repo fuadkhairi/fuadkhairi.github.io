@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Fuad Khairi Hamid
-title: Software Engineer - Mobile
+title: iOS Developer
 email: fuadkhairihamid@gmail.com
 website: www.github.com/fuadkhairi
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: fuadkhairi
@@ -33,7 +33,7 @@ linkedin_username: fuadkhairi
 additional_links:
 - title: resume link
   icon: fas fa-globe
-  url: fuadkhairi.github.io
+  url: fukha.my.id
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Hello!
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am an iOS Developer with almost 4 years of experience in iOS Development. I also have experience in other mobile roles as native android development, mobile games development, and some hands-on with flutter, the total of my professional experience is around 7 years. I’ve spent most of my career developing apps for early stages startup and corporates in Indonesia, also got some opportunity to work with consultant and freelance. My goals is to gain experience and expand my skillset by working on a project that has scale, and want to see how my skill can contribute to the company I work on.
@@ -68,7 +68,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="/images/olx1.webp" width="320" height="148"> &emsp; <img src="/images/olx2.webp" width="320" height="148">
            
-          Joined as native iOS Developer at OLX Indonesia
+          Joined as iOS Developer at OLX Indonesia
       - layout: left
         title: Octopus - Solusi Daur Ulangmu
         additional_links:
@@ -125,11 +125,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="/images/fkprogress.gif" width="148" height="148">
            
-          FKProgressCircle is a lightweight library for rendering circular progress with an icon(arrow) as value indicator.
+          FKProgressCircle is a lightweight library for rendering animated circular progress with an icon(arrow) as value indicator.
       - layout: left
         title: Waste Classification - Octopus Extension (2023)
         quote: >
-           Detect and classify waste type with Apple's MLKIt
+           Detect and classify waste type with Apple's MLKit and CoreML
         description: | # this will include new lines to allow paragraphs
           <img src="/images/waste_classification.gif" width="148" height="320">
            
@@ -198,7 +198,7 @@ content:
         title: OLX Indonesia
         link: olx.co.id
         # link_text: boringcompany.com
-        sub_title: Software Engineer - iOS
+        sub_title: iOS Developer
         caption: January 2023 - Present
         quote: >
           Deliver features/updates for OLX Indonesia apps
@@ -210,7 +210,7 @@ content:
         title: Octopus Indonesia
         link: octopus.co.id/id
         # link_text: boringcompany.com
-        sub_title: Senior Mobile Developer (iOS)
+        sub_title: iOS Developer
         caption: January 2023 - January 2024
         quote: >
           Deliver features for Octopus iOS Customer Application
@@ -225,7 +225,7 @@ content:
       - layout: left
         link: octopus.co.id/id
         sub_title: Android & iOS Developer
-        caption: June 2020 - July 2021
+        caption: June 2020 - June 2021
         quote: >
           Deliver features for Octopus Apps in iOS, Android, and Web App (Flutter)
         description: | # this will include new lines to allow paragraphs
@@ -265,7 +265,7 @@ content:
         sub_title: Android Developer
         caption: July 2021
         quote: >
-          Joined the gym pod team.
+          Joined the gym pod tech team.
         description: | # this will include new lines to allow paragraphs
             Some of responsibility:
                 • Responsible to transform a React Native Mobile Application to Native Android that works on smart mirror using clean architecture and mvvm pattern.
@@ -273,7 +273,7 @@ content:
         title: PT. Carakde Solusi Informatika
         link: carakde.id
         # link_text: boringcompany.com
-        sub_title: Mobile Developer (Android/iOS)
+        sub_title: Android & iOS Developer
         caption: August 2018
         quote: >
           Code few apps in android and iOS platform
@@ -287,20 +287,6 @@ content:
         title: Hasanuddin University
         caption: 2015 - 2019
         sub_title: BSc Computer Science / Informatics Engineering
-        quote: >
-          Hasanuddin University which is abbreviated as Unhas, is one of the largest autonomous universities in Indonesia. It is located in Makassar, South Sulawesi, Indonesia.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Hasanuddin I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          On the end of my study, I spent a lot of my time as a researcher on AIMP (Artificial Intelligence and Multimedia Processing) Labs to learn about AI and Machine Learning.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in mobile software engineering some of my other interests and hobbies are:
-      - Badminton
-      - Gaming
-      - Novel reading
 
 
 # Footer
