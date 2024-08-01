@@ -7,48 +7,24 @@ version: 2
 
 # Personal info
 name: Fuad Khairi Hamid
-title: iOS Developer
+title: iOS Software Developer
 email: fuadkhairihamid@gmail.com
 website: www.github.com/fuadkhairi
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: fuadkhairi
+twitter_username: fukhairi
 github_username:  fuadkhairi
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: fuadkhairi
 linkedin_username: fuadkhairi
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: resume link
-  icon: fas fa-globe
-  url: fukha.my.id
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Hello!
+about_title: Overview
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am an iOS Developer with almost 4 years of experience in iOS Development. I also have experience in other mobile roles as native android development, mobile games development, and some hands-on with flutter, the total of my professional experience is around 7 years. I’ve spent most of my career developing apps for early stages startup and corporates in Indonesia, also got some opportunity to work with consultant and freelance. My goals is to gain experience and expand my skillset by working on a project that has scale, and want to see how my skill can contribute to the company I work on.
+  I am a dedicated iOS software developer with more than 4 years of specialized experience. Throughout my career, I have developed applications for early-stage startups and corporations in Indonesia, and have also taken on consulting and freelance projects. My primary goal is to stay updated with the latest iOS technologies, continuously upgrade my skills, and contribute meaningfully to the projects I work on, enhancing the overall development process.
 
 content:
   - title: Projects I`ve worked on / Contributed to # Title for the section
@@ -68,7 +44,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="/images/olx1.webp" width="320" height="148"> &emsp; <img src="/images/olx2.webp" width="320" height="148">
            
-          Joined as iOS Developer at OLX Indonesia
+          Joined as iOS Developer at OLX Indonesia in Platform Tribe. Responsible for future feature updates and maintain main OLX apps.
       - layout: left
         title: Octopus - Solusi Daur Ulangmu
         additional_links:
@@ -190,104 +166,6 @@ content:
           <img src="/images/edata.jpeg" width="320" height="275">
            
           This app is written in Java and using python to develop machine learning model to make prediction based on given data, then show the data to mobile application.
-          
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: OLX Indonesia
-        link: olx.co.id
-        # link_text: boringcompany.com
-        sub_title: iOS Developer
-        caption: January 2023 - Present
-        quote: >
-          Deliver features/updates for OLX Indonesia apps
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Deliver updates for OLX Indonesia apps
-                • Fixes bugs and tackle tech debts
-      - layout: left
-        title: Octopus Indonesia
-        link: octopus.co.id/id
-        # link_text: boringcompany.com
-        sub_title: iOS Developer
-        caption: January 2023 - January 2024
-        quote: >
-          Deliver features for Octopus iOS Customer Application
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Responsible to maintain iOS Octopus apps crash-free rate >96%
-                • Implement CI/CD
-                • Write Unit test, and increase code coverage to 50%
-                • Developed intuitive user interface and engaging user experience that resulted in positive user feedback
-                • Implement MVVM Design Pattern with RxSwift
-                • Stand by for fatal production bugs to replicate and fix on the next release
-      - layout: left
-        link: octopus.co.id/id
-        sub_title: Android & iOS Developer
-        caption: June 2020 - June 2021
-        quote: >
-          Deliver features for Octopus Apps in iOS, Android, and Web App (Flutter)
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Develop feature and manage release of Octopus apps in iOS (Customer app) and Android (Customer, Pelestari, and Waste Bank app) platform
-                • Develop Octopus mobile web app in Flutter in order to collaborate with Grab Application
-                • Implement MVVM design pattern in iOS and Android
-      - layout: left
-        link: octopus.co.id/id
-        sub_title: Android Developer
-        caption: December 2019 - June 2020
-        quote: >
-          Working on Octopus Android Apps, and testing on the field (with pelestari)
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Responsible for developing features of Octopus Android Apps, includes Octopus User Apps, Pelestari Apps, and Agent Apps, and make sure the flow of the alpha app is working.
-      - layout: left
-        title: PT. Bluebird Group Tbk.
-        link: bluebirdgroup.com
-        # link_text: boringcompany.com
-        sub_title: iOS Developer
-        caption: August 2021 - December 2022
-        quote: >
-          Joined the marketing squad to support marketing features on Bluebird Taxi iOS app
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Responsible to develop and integrate marketing-based feature such as promotion inbox,
-                  deep links, events, and home page marketing contents in Bluebird iOS App.
-                • Responsible to integrate some third-party tools and its features for marketing purpose
-                  such as Clevertap, Firebase, Facebook, and Google SDK
-                • Actively communicate with core app team to deliver features from marketing team for
-                  release.
-      - layout: left
-        title: The Gym Pod (EngX1)
-        link: engx1.com
-        # link_text: boringcompany.com
-        sub_title: Android Developer
-        caption: July 2021
-        quote: >
-          Joined the gym pod tech team.
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Responsible to transform a React Native Mobile Application to Native Android that works on smart mirror using clean architecture and mvvm pattern.
-      - layout: left
-        title: PT. Carakde Solusi Informatika
-        link: carakde.id
-        # link_text: boringcompany.com
-        sub_title: Android & iOS Developer
-        caption: August 2018
-        quote: >
-          Code few apps in android and iOS platform
-        description: | # this will include new lines to allow paragraphs
-            Some of responsibility:
-                • Code and deliver a few end-to-end Android Mobile Application with MVVM and Agile Process
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Hasanuddin University
-        caption: 2015 - 2019
-        sub_title: BSc Computer Science / Informatics Engineering
-
 
 # Footer
 footer_show_references: false
